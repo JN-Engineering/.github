@@ -57,7 +57,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-764ba2?style=for-the-badge&logoColor=white)](https://jacobpoore.wescreates.wesleyan.edu/collab)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-764ba2?style=for-the-badge&logoColor=white)](https://jn-engineering.github.io)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lim-noah/) 
 [![GitHub](https://img.shields.io/badge/⚡_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noah-Lim)
 
